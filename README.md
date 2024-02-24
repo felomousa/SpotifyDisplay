@@ -50,9 +50,5 @@ Acknowledgments
 Thanks to the creators of the spotipy and rgbmatrix libraries for making this project possible.
 Hat tip to anyone whose code was used as inspiration or directly incorporated into this project.
 
-
-
-
-
 Using: https://github.com/hzeller/rpi-rgb-led-matrix
 
