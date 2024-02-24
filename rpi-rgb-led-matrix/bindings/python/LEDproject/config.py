@@ -30,8 +30,8 @@ progress_bar_config = {
 
 
 font_config = {
-    'font_path': "rpi-rgb-led-matrix/bindings/python/LEDproject/PixelOperatorMono8-Bold.ttf",  # Adjust font path as needed
-    'font_path1': "rpi-rgb-led-matrix/bindings/python/LEDproject/PixelOperator.ttf",       # Adjust font path as needed
+    'font_path': "PixelOperatorMono8-Bold.ttf",  # Adjust font path as needed
+    'font_path1': "PixelOperator.ttf",       # Adjust font path as needed
     'font_size': 8,
     'font_size1': 14,
 }
