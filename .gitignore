@@ -162,3 +162,9 @@ cython_debug/
 # Custom
 *myenv/*
 *.spotipy_cache
+*.o
+*.a
+*~
+*.so
+.envrc
+.direnv
