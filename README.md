@@ -35,7 +35,7 @@ pip install numpy opencv-python Pillow requests spotipy
 ## Running the Application
 To start the application and display the Spotify playback information on your LED panel, run:
 ```bash
-python3 main.py
+sudo python3 main.py
 ```
 Follow the instructions in the console to authenticate your Spotify account when running the script for the first time.
 
