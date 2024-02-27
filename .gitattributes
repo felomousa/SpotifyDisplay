@@ -1,0 +1,4 @@
+*.c linguist-vendored
+*.h linguist-vendored
+*.cc linguist-vendored
+Makefile.* linguist-vendored
