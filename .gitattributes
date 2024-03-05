@@ -1,4 +1,15 @@
+# C and C++
 *.c linguist-vendored
-*.h linguist-vendored
 *.cc linguist-vendored
+*.cpp linguist-vendored
+*.cxx linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+
+# Makefiles
+Makefile linguist-vendored
 Makefile.* linguist-vendored
+
+# Cython
+*.pyx linguist-vendored
+*.pxd linguist-vendored
