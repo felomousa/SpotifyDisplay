@@ -1,0 +1,9 @@
+*.o
+*.a
+*~
+*.so
+.envrc
+.direnv
+adapter
+examples-api-use/
+fonts/

@@ -1,4 +1,4 @@
-# LedPanel: Spotify LED Panel Display
+# SpotifyDisplay: Spotify LED Matrix Panel
 
 Welcome to the Spotify LED Panel Display project! This repository hosts a Python application designed to display the currently playing track information from Spotify on an LED panel. The application showcases the song name, artist, album cover, and a progress bar representing the song's playback progress.
 
