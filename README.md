@@ -44,13 +44,9 @@ on first run, follow the console instructions to authenticate with Spotify.
 
 ## Relevant Skills
 - API integration (Spotify Web API)
-
 - Real-time data processing
-
 - Image handling + display (OpenCV, Pillow)
-
 - Raspberry Pi & GPIO
-
 - Linux service scheduling
 
 ## License
